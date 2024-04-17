@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color: brown ;
+    height: 10vh;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    align-content: center;
+    border: solid;
+    border-radius: 100px;
+    
+}
+
+
+
+.Avaliacao{
+    align-items: center;
+    align-content: center;
+    text-align: center ;
+}
+.titulo{ 
+text-align: center;
+margin-top: -40vh;
+margin-left: 10vh;
+font-size: 5vh;
+}
+
+.Foto{
+    background-image: url(CAROS.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+background-size: 100% 100%;
+margin-top: 10vh;
+margin-left: 14vh;
+border-radius: 10px;
+border: solid;
+list-style-type: none ;
+}
+.Avaliacao{
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+    margin-left: -25vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+      
+}
+
+.Mais{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    list-style-type: None;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -20vh;
+    margin-top: 20vh;
+    justify-items: center;
+}
+
+.Mais li{
+    margin-left: -110vh;
+    margin-top: 7vh;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+}
+
+
+.gif{
+    background-image: url(gif.gif);
+    align-items: center;
+    width: 100vh;
+    height: 40vh;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 90vh;
+    margin-top: -30vh;
+    border: solid;
+    padding: top 10vh; 
+    opacity: 90%;
+    border-radius: 10px;
+    animation-duration: 0.8s;
+}
+.bra{
+    background-color: white;
+    width: 5vh;
+    height: 5vh;
+}
+
+.gif:hover{
+    opacity: 100%;
+    background-size: 110%;
+    animation-duration: 0.8s;
+}
